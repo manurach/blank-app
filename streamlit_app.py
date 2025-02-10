@@ -10,7 +10,7 @@ st.image(
 )
 st.title("🎈 Jelly~~~ 😁")
 st.image(
-    img,
+    jelly,
     caption="It's my pet 🐥!",
     width=800,
     channels="RGB"
